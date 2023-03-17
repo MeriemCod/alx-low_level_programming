@@ -1,1 +1,1 @@
-Hello, puts
+5. Hello, printf
