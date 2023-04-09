@@ -1,1 +1,1 @@
-0x09 C -Static_libararies
+0x0 C Static_Libraries
